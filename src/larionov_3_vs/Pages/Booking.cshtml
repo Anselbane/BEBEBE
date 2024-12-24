@@ -1,0 +1,101 @@
+﻿@page
+@model larionov_3_vs.Pages.BookingModel
+@{
+    ViewData["Title"] = "Бронирование компьютеров";
+}
+
+<div class="booking-container">
+    <h1>Бронирование компьютеров</h1>
+    <form id="bookingForm">
+        <label for="name">Ваше имя:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="date">Дата бронирования:</label>
+        <input type="date" id="date" name="date" required>
+
+        <label for="time">Время бронирования:</label>
+        <input type="time" id="time" name="time" required>
+
+        <button type="submit">Забронировать</button>
+    </form>
+
+    <!-- Таблица для отображения данных -->
+    <table class="booking-table" id="bookingTable" style="display: none;">
+        <thead>
+            <tr>
+                <th>Имя</th>
+                <th>Дата</th>
+                <th>Время</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Строки с данными будут добавляться сюда -->
+        </tbody>
+    </table>
+</div>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .booking-container {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 300px;
+    }
+    .booking-container h1 {
+        font-size: 24px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .booking-container label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+    }
+    .booking-container input[type="text"],
+    .booking-container input[type="date"],
+    .booking-container input[type="time"] {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .booking-container button {
+        width: 100%;
+        padding: 10px;
+        background-color: #28a745;
+        border: none;
+        border-radius: 4px;
+        color: #fff;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .booking-container button:hover {
+        background-color: #218838;
+    }
+    .booking-table {
+        margin-top: 20px;
+        width: 100%;
+        border-collapse: collapse;
+    }
+    .booking-table th,
+    .booking-table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: center;
+    }
+    .booking-table th {
+        background-color: #f2f2f2;
+    }
+</style>

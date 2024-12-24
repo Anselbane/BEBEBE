@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|solutionrelative:larionov_3_vs\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|solutionrelative:larionov_3_vs\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|solutionrelative:larionov_3_vs\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\pages\\booking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|solutionrelative:larionov_3_vs\\pages\\booking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|solutionrelative:larionov_3_vs\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\larionov_3_vs.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|solutionrelative:larionov_3_vs\\larionov_3_vs.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -17,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|solutionrelative:larionov_3_vs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|solutionrelative:larionov_3_vs\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{018E5CB2-EAFB-43AE-B7D1-226A97FAF6B2}|larionov_3_vs\\larionov_3_vs.csproj|c:\\users\\user\\desktop\\lab3evd\\bebebe\\src\\larionov_3_vs\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +66,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\docker-compose.yml",
+              "RelativeDocumentMoniker": "larionov_3_vs\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\docker-compose.yml",
+              "RelativeToolTip": "larionov_3_vs\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-24T13:09:03.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Dockerfile",
+              "RelativeDocumentMoniker": "larionov_3_vs\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Dockerfile",
+              "RelativeToolTip": "larionov_3_vs\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-24T13:08:58.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Pages\\Booking.cshtml.cs",
+              "RelativeDocumentMoniker": "larionov_3_vs\\Pages\\Booking.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Pages\\Booking.cshtml.cs",
+              "RelativeToolTip": "larionov_3_vs\\Pages\\Booking.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:06:13.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Pages\\Booking.cshtml",
+              "RelativeDocumentMoniker": "larionov_3_vs\\Pages\\Booking.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Pages\\Booking.cshtml",
+              "RelativeToolTip": "larionov_3_vs\\Pages\\Booking.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:05:26.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "larionov_3_vs.http",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\larionov_3_vs.http",
               "RelativeDocumentMoniker": "larionov_3_vs\\larionov_3_vs.http",
@@ -67,19 +135,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "BookingsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Controllers\\BookingsController.cs",
               "RelativeDocumentMoniker": "larionov_3_vs\\Controllers\\BookingsController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Controllers\\BookingsController.cs",
               "RelativeToolTip": "larionov_3_vs\\Controllers\\BookingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:39:32.649Z"
+              "WhenOpened": "2024-12-19T19:39:32.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Program.cs",
               "RelativeDocumentMoniker": "larionov_3_vs\\Program.cs",
@@ -87,12 +156,11 @@
               "RelativeToolTip": "larionov_3_vs\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:06:17.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T19:06:17.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "larionov_3_vs\\ApplicationDbContext.cs",
@@ -104,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "larionov_3_vs\\Controllers\\UsersController.cs",
@@ -116,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ComputersController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Controllers\\ComputersController.cs",
               "RelativeDocumentMoniker": "larionov_3_vs\\Controllers\\ComputersController.cs",
@@ -128,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Booking.cs",
               "RelativeDocumentMoniker": "larionov_3_vs\\Booking.cs",
@@ -136,12 +204,11 @@
               "RelativeToolTip": "larionov_3_vs\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T18:49:09.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T18:49:09.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\User.cs",
               "RelativeDocumentMoniker": "larionov_3_vs\\User.cs",
@@ -153,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Computer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\Computer.cs",
               "RelativeDocumentMoniker": "larionov_3_vs\\Computer.cs",
@@ -165,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\appsettings.json",
               "RelativeDocumentMoniker": "larionov_3_vs\\appsettings.json",
@@ -173,8 +240,7 @@
               "RelativeToolTip": "larionov_3_vs\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-19T18:43:33.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T18:43:33.852Z"
             }
           ]
         }

@@ -12,6 +12,14 @@ namespace larionov_3_vs.Controllers
     {
         [ApiController]
         [Route("api/[controller]")]
+
+        public class BookingController : Controller
+        {
+            public IActionResult Index()
+            {
+                return View();
+            }
+        }
         public class BookingsController : ControllerBase
         {
             private readonly ApplicationDbContext _context;
@@ -93,6 +101,10 @@ namespace larionov_3_vs.Controllers
                 await _context.SaveChangesAsync();
 
                 return NoContent();
+
+
+
+
             }
         }
     }

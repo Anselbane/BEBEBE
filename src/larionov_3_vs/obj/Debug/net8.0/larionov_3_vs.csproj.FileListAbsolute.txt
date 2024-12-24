@@ -339,3 +339,5 @@ C:\Users\user\Desktop\lab3evd\BEBEBE\src\larionov_3_vs\obj\Debug\net8.0\refint\l
 C:\Users\user\Desktop\lab3evd\BEBEBE\src\larionov_3_vs\obj\Debug\net8.0\larionov_3_vs.pdb
 C:\Users\user\Desktop\lab3evd\BEBEBE\src\larionov_3_vs\obj\Debug\net8.0\larionov_3_vs.genruntimeconfig.cache
 C:\Users\user\Desktop\lab3evd\BEBEBE\src\larionov_3_vs\obj\Debug\net8.0\ref\larionov_3_vs.dll
+C:\Users\user\Desktop\lab3evd\BEBEBE\src\larionov_3_vs\obj\Debug\net8.0\larionov_3_vs.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\lab3evd\BEBEBE\src\larionov_3_vs\obj\Debug\net8.0\larionov_3_vs.RazorAssemblyInfo.cs
