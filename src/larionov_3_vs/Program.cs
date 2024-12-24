@@ -2,28 +2,31 @@ using larionov_3_vs;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 
-// Перенаправление на HTTPS
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
 app.UseHttpsRedirection();
 
-// Разрешение доступа к Swagger
-app.UseSwagger();
-app.UseSwaggerUI();
-
-// Разрешение статических файлов (если нужно)
-app.UseStaticFiles();
-
-// Маршрутизация
-app.UseRouting();
-
-// Разрешение CORS (если нужно)
-app.UseCors();
-
-// Разрешение авторизации (если нужно)
 app.UseAuthorization();
 
-// Конечные точки
 app.MapControllers();
 
 app.Run();
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
