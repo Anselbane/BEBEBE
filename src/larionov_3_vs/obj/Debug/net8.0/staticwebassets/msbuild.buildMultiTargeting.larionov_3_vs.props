@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\larionov_3_vs.props" />
+</Project>

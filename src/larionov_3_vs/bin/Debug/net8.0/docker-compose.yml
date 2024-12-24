@@ -1,0 +1,30 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection: "Server=DESKTOP-PBHMVB5;Database=larionov_3;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=True;"
+
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrong!Passw0rd
+      - MSSQL_PID=Express
+    volumes:
+      - C:\Users\Зимний Ветер\source\repos\larionov_3_vs\larionov_3_vs\larionov_3.bacpac
+    entrypoint: >
+      /bin/sh -c "
+      /opt/mssql/bin/sqlservr &
+      sleep 20 &&
+      /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P YourStrong!Passw0rd -Q 'CREATE DATABASE larionov_3' &&
+      /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P YourStrong!Passw0rd -Q \"RESTORE DATABASE larionov_3 FROM DISK = '/var/opt/mssql/data/larionov_3.bacpac' WITH MOVE 'larionov_3' TO '/var/opt/mssql/data/larionov_3.mdf', MOVE 'larionov_3_log' TO '/var/opt/mssql/data/larionov_3_log.ldf'\"
+      "
