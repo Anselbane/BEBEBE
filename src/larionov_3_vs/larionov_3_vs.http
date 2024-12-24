@@ -1,6 +1,29 @@
 @larionov_3_vs_HostAddress = http://localhost:5055
 
-GET {{larionov_3_vs_HostAddress}}/weatherforecast/
+### Получить список бронирований
+GET {{larionov_3_vs_HostAddress}}/api/bookings
 Accept: application/json
 
-###
+### Создать новое бронирование
+POST {{larionov_3_vs_HostAddress}}/api/bookings
+Content-Type: application/json
+
+{
+  "computerId": 1,
+  "startTime": "2023-10-01T10:00:00",
+  "endTime": "2023-10-01T12:00:00",
+  "userId": "user123"
+}
+
+### Получить список компьютеров
+GET {{larionov_3_vs_HostAddress}}/api/computers
+Accept: application/json
+
+### Создать новый компьютер
+POST {{larionov_3_vs_HostAddress}}/api/computers
+Content-Type: application/json
+
+{
+  "name": "Computer 1",
+  "description": "High-performance gaming PC"
+}
