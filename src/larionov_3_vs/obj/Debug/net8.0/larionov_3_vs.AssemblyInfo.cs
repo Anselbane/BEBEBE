@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("larionov_3_vs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a060587958edc25eaed1e3ce654f48912c865112")]
 [assembly: System.Reflection.AssemblyProductAttribute("larionov_3_vs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("larionov_3_vs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

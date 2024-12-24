@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Зимний Ветер\\source\\repos\\larionov_3_vs\\larionov_3_vs\\larionov_3_vs.csproj": {}
+    "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\larionov_3_vs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Зимний Ветер\\source\\repos\\larionov_3_vs\\larionov_3_vs\\larionov_3_vs.csproj": {
+    "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\larionov_3_vs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Зимний Ветер\\source\\repos\\larionov_3_vs\\larionov_3_vs\\larionov_3_vs.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\larionov_3_vs.csproj",
         "projectName": "larionov_3_vs",
-        "projectPath": "C:\\Users\\Зимний Ветер\\source\\repos\\larionov_3_vs\\larionov_3_vs\\larionov_3_vs.csproj",
-        "packagesPath": "C:\\Users\\Зимний Ветер\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Зимний Ветер\\source\\repos\\larionov_3_vs\\larionov_3_vs\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\larionov_3_vs.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\lab3evd\\BEBEBE\\src\\larionov_3_vs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Зимний Ветер\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/tgbots/Telegram.Bot/_packaging/release/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -43,9 +44,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -84,15 +84,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.8, 8.0.8]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.8, 8.0.8]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.8, 8.0.8]"
             }
           ],
           "frameworkReferences": {
@@ -103,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

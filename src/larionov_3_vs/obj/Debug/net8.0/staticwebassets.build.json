@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "YpR7qQYDv/1bKxzNrCXOCjUmyIAjbIwTj6ICCvQ1VZM=",
+  "Hash": "ChGBoei/llvxwXvD06c26drUd5YiOt37uWPta/nRKqU=",
   "Source": "larionov_3_vs",
   "BasePath": "_content/larionov_3_vs",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
